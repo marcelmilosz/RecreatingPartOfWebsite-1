@@ -11,5 +11,4 @@ This is their graphic
 
 And this is my try
 
-<img width="664" alt="my" src="https://user-images.githubusercontent.com/61027817/180575865-24faea66-2ea3-44ac-b661-1b6c42bb2144.png">
-
+<img width="384" alt="my-1" src="https://user-images.githubusercontent.com/61027817/180575997-e3c2774e-9094-49e0-9a90-a355635de832.png">
