@@ -2,6 +2,7 @@
 This is my really quick try of recreating one beautiful image from stripe.com website.
 
 I wanted to try to create something similar to their graphic, because I thought it looks cool.
+
 Whole project took me 2 hours.
 
 This is their graphic 
